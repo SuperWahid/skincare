@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Skincare</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header, footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .content {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Procapit</h1>
+            <p>Sumber terpercaya untuk segala kebutuhan perawatan kulit Anda</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="content">
+            <h2>Beranda</h2>
+            <p>Selamat datang di [Nama Website Skincare Anda], sumber terpercaya untuk segala kebutuhan perawatan kulit Anda. Kami menyediakan informasi lengkap tentang berbagai produk skincare yang dapat membantu Anda mendapatkan kulit yang sehat dan bersinar. Temukan produk terbaik dan pelajari cara merawat kulit dengan benar bersama kami.</p>
+        </div>
+
+        <div class="content">
+            <h2>Tentang Kami</h2>
+            <p>[Nama Website Skincare Anda] adalah website yang didedikasikan untuk memberikan informasi dan rekomendasi produk skincare terbaik. Kami percaya bahwa perawatan kulit yang tepat adalah kunci untuk mendapatkan kulit yang sehat dan bercahaya. Kami berkomitmen untuk menyediakan informasi yang akurat dan terpercaya tentang produk-produk skincare terbaik di pasaran.</p>
+        </div>
+
+        <div class="content">
+            <h2>Produk Skincare</h2>
+
+            <h3>Pembersih Wajah (Cleanser)</h3>
+            <h4>CeraVe Hydrating Facial Cleanser</h4>
+            <p><strong>Deskripsi:</strong> Pembersih wajah yang lembut ini cocok untuk kulit normal hingga kering. Mengandung ceramide dan asam hialuronat yang membantu menjaga kelembapan kulit.</p>
+            <p><strong>Manfaat:</strong> Membersihkan kulit dari kotoran dan minyak berlebih tanpa membuat kulit kering.</p>
+            <p><strong>Cara Penggunaan:</strong> Gunakan pagi dan malam hari. Aplikasikan pada wajah yang basah, pijat lembut, lalu bilas dengan air hangat.</p>
+
+            <h4>Cetaphil Gentle Skin Cleanser</h4>
+            <p><strong>Deskripsi:</strong> Pembersih wajah yang lembut dan tidak menyebabkan iritasi, cocok untuk semua jenis kulit, termasuk kulit sensitif.</p>
+            <p><strong>Manfaat:</strong> Menjaga keseimbangan pH kulit dan membersihkan tanpa mengganggu lapisan pelindung alami kulit.</p>
+            <p><strong>Cara Penggunaan:</strong> Aplikasikan pada kulit, pijat lembut, dan bilas atau lap dengan kain lembut.</p>
+
+            <h3>Toner</h3>
+            <h4>Thayers Witch Hazel Toner</h4>
+            <p><strong>Deskripsi:</strong> Toner bebas alkohol yang mengandung witch hazel dan aloe vera untuk menenangkan dan menyegarkan kulit.</p>
+            <p><strong>Manfaat:</strong> Mengurangi kemerahan dan mengecilkan pori-pori.</p>
+            <p><strong>Cara Penggunaan:</strong> Aplikasikan pada kapas dan usapkan secara merata pada wajah setelah membersihkan wajah.</p>
+
+            <h4>Pixi Glow Tonic</h4>
+            <p><strong>Deskripsi:</strong> Toner eksfoliasi yang mengandung 5% asam glikolat untuk mengangkat sel kulit mati dan mencerahkan kulit.</p>
+            <p><strong>Manfaat:</strong> Membuat kulit lebih halus dan bercahaya.</p>
+            <p><strong>Cara Penggunaan:</strong> Gunakan kapas untuk mengaplikasikan toner ke wajah setelah membersihkan wajah.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Procapit. All rights reserved.</p>
+    </footer>
+</body>
+</html>
